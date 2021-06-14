@@ -119,7 +119,7 @@ def choose_word(file_path, index):
 def main():
     print_welcome()
 
-    # get file and index C:\Users\royko\Downloads\hang.txt
+    # get file and index C:\Users\royko\Downloads\words.txt
     file_path = raw_input("Enter file path:")
     index = raw_input("Enter index:")
 
